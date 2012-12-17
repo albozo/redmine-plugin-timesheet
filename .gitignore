@@ -1,9 +1,0 @@
-.bundle
-db/*.sqlite3
-log/*.log
-*.log
-*.swp
-*~
-.project
-.DS_Store
-tmp/**/*
